@@ -53,7 +53,7 @@ Subsequent response definitions will only detail the expected value of the `data
 - `"article_type":string` the type of the article as they can be many
 - `"article_description":string` article description containing text about the news featured
 
-If article with the given identifier already exists, the existing device will be overwritten.
+If article with the given identifier already exists, the existing article will be overwritten.
 
 **Response**
 
